@@ -1,0 +1,32 @@
+body {
+	text-align: center;
+	margin: 0;
+}
+
+h1 {
+	background: url(../img/wildflowers.jpg) 50% 50%;
+	padding: 100px;
+	font-family: 'Fredericka the Great', cursive;
+	color: whitesmoke;
+	font-size: 100px;
+	margin: 0;
+}
+
+#demo {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin: 20px;
+}
+
+#demo:hover {
+	color: #d2e40c;
+	background-color: #e40cd2;
+}
